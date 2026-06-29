@@ -1,0 +1,27 @@
+[package]
+name = "timeshine"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "TimeShine: A fast, multi-architecture backup tool written in Rust"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = "0.4"
+sha2 = "0.10"
+hex = "0.4"
+clap = { version = "4.0", features = ["derive"] }
+rayon = "1.10"
+xattr = "1.3"
+libc = "0.2"
+
+[package.metadata.deb]
+maintainer = "Your Name <you@example.com>"
+assets = [
+    ["target/release/timeshine", "usr/bin/timeshine", "755"],
+]
+extended-description = """
+TimeShine is a content-addressable backup utility.
+It supports amd64, arm64, armhf, riscv64, loong64, and i386 Debian architectures.
+"""
