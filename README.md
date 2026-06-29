@@ -15,6 +15,6 @@ A high-performance, lightweight, and reliable backup utility written in Rust. It
 To build and install TimeShine from source, ensure you have Rust and Cargo installed, then run the following commands:
 
 ```bash
-git clone [https://github.com/ryusawawa/timeshine.git](https://github.com/ryusawawa/timeshine.git)
+git clone https://github.com/ryusawawa/timeshine.git
 cd timeshine
 cargo install --path .
