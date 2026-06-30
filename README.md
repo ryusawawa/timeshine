@@ -18,6 +18,7 @@ To build and install TimeShine from source, ensure you have Rust and Cargo insta
 git clone https://github.com/ryusawawa/timeshine.git
 cd timeshine
 cargo install --path .
+```
 
 ## Usage
 ### ​1. Basic Operations
