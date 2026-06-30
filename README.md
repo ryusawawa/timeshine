@@ -89,6 +89,7 @@ SOFTWARE.
 If you have any questions, bug reports, or feature requests, feel free to open an issue or reach out via email:
 
 GitHub: ryusawawa
+
 Email: kaitoubanana7@gmail.com
 
 
