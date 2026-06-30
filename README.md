@@ -84,3 +84,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+## Contact
+If you have any questions, bug reports, or feature requests, feel free to open an issue or reach out via email:
+
+GitHub: ryusawawa
+Email: kaitoubanana7@gmail.com
+
+
